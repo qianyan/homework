@@ -1,9 +1,7 @@
 ###集合练习
 ####使用方式
-1. 使用构建工具
-```
-./gradlew idea
-```
+1. 使用构建工具` ./gradlew idea`
+
 2. 使用IntelliJ IDEA打开collection.ipr
 
 3. 运行CollectionsOpsTest
